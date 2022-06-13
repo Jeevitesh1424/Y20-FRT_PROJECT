@@ -3,7 +3,7 @@
 KL HEALTH-BOT
 
 
-This project is about the website which is made for the purpose to getting knowledge about the fashion.
+This project is about the website which is made for the purpose to getting knowledge about the health.
 
 Azure services used in this project
 
